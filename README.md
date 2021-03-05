@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ##Introduction
 A lot of lectures are already submitted.
-
+And a lot of lectures are coming on.
 ##Git and GitHub Training
 This is the famous and one of the best training course of DevOps.
 

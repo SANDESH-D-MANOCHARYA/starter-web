@@ -7,7 +7,9 @@
 
 # THANKS
 
-    Thanks to my students
+    Thanks to my students. 
+	
+	Hi I am modifying the file before rebase.
 
 # TECHNOLOGY COLOPHON
 

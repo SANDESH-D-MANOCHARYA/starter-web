@@ -12,6 +12,8 @@
 	Hi I am modifying the file before rebase.
 	
 	IT Organization
+	
+	Do some changes in local.
 
 # TECHNOLOGY COLOPHON
 

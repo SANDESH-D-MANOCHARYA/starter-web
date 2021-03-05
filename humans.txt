@@ -7,8 +7,8 @@
 
 # THANKS
 
-   Going to insert conflicts in my feature branch.
-   Thanks to my students
+   Resolving conflicts in my feature branch.
+   
 
 # TECHNOLOGY COLOPHON
 

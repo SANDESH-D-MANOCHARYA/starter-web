@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Addig notes on stash.
+
 # TEAM
 
     <name> Sandesh D Manocharya <twitter>

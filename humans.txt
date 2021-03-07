@@ -26,3 +26,4 @@ Addig notes on stash.
 
     HTML5, CSS3
     jQuery, Modernizr
+    AWS Solutions Architect Developer

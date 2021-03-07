@@ -7,6 +7,7 @@
 
 # THANKS
 
+<<<<<<< HEAD
     Thanks to my students. 
 	
 	Hi I am modifying the file before rebase.
@@ -14,6 +15,10 @@
 	IT Organization
 	
 	Do some changes in local.
+=======
+   Resolving conflicts in my feature branch.
+   
+>>>>>>> myBranch
 
 # TECHNOLOGY COLOPHON
 

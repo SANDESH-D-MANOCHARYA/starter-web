@@ -20,6 +20,6 @@ Fork the repo and raise pull request for review
 
 ##Git Comparisons
 Adding GIT Comparision Lectures.
-
+Adding Stash Lectures.
 ##GitHub Content
 Comparision with Repo.
